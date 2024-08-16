@@ -97,7 +97,50 @@ margin-bottom: 10px;
 }
 
 
+.card {
+  margin: 0 20px;
+  background-color: #328998;
+}
 
+
+.card-group {
+  border: 1px black;
+  margin-bottom: 100px;
+}
+
+
+.card-title {
+  font-size: 16pt;
+  font-weight: 400;
+  text-align: left;
+  color: #ffffff;
+}
+
+
+.card-text {
+  font-size: 12pt;
+  font-weight: 400;
+  text-align: left;
+  color: #ffffff;
+}
+
+.card:hover {
+  background-color: yellow;
+  color: black;
+}
+
+
+.card-img-top {
+  padding: 2px;
+}
+
+div div div ul li {
+  margin-top: 80px;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  list-style: none;
+}
 
 
 /* Atributos del carrusel de imágenes */
